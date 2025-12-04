@@ -11,8 +11,7 @@ Paper:
 # Processing TalkBank Files for NLP
 **Authors**: Emily Tumacder and Yan Cong
 
-This repository contains tools to process CHAT files and CSVs downloaded from TalkBank (https://talkbank.org/aphasia/index.html). 
-Includes: tools for analysis of paraphasia, llm inference 
+This repository also contains information to process CHAT files and CSVs downloaded from TalkBank (https://talkbank.org/aphasia/index.html). 
 
 ## Processing CHAT Files
 
